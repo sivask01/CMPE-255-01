@@ -46,9 +46,9 @@ Make sure the data is in this format
 
     data/
     ├── classes/
-    ├── CMFD/ # Correctly Masked Face Dataset
-    ├── IMFD/ # Incorrectly Masked Face Dataset
-    └── NO_MASK/ # No Mask
+        ├── CMFD/ # Correctly Masked Face Dataset
+        ├── IMFD/ # Incorrectly Masked Face Dataset
+        └── NO_MASK/ # No Mask
 
 
 ## Data Loading
