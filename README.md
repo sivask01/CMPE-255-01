@@ -13,7 +13,6 @@ The network employs strides to reduce dimensionality and max pooling for spatial
 This architecture is meticulously optimized to balance the computational load while maintaining high accuracy in identifying correct mask usage, ensuring the system’s viability for real-time applications in diverse settings.
 
 
-![alt text](assets/CNN%20model.png)
 
 # Requirements
     ! pip install requirements.txt
